@@ -1,0 +1,14 @@
+/TestWireless/out/**/*
+/**/*.vci
+/**/*.vec
+*_m.cc
+*_m.c
+*_m.h
+
+Makefile
+
+/TestWireless/.settings
+
+/TestWireless/src/TestWireless
+run
+*.sca
